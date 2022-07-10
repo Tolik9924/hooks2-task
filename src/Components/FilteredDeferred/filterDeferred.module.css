@@ -1,0 +1,15 @@
+.filterContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.loadingList {
+    position: absolute;
+    left: 30%;
+}
